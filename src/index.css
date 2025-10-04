@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+html, body, #root {
+  height: 100%;
+  background-color: #ffe1e1; /* Tailwind's red-300 */
+}
+
+:root {
+  --primary-dark: #982132;
+  --primary-light: #FF2B4A;
+
+}
+
+@layer base{
+  html {
+    @apply scroll-smooth
+  }
+
+  body {
+    font-family: 'Lexend', sans-serif;
+  }
+
+  li {
+    @apply p-4 text-sm
+  }
+
+  button {
+    @apply px-4 py-2 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white
+  }
+
+  h2, h1, h3, p {
+    @apply text-xl font-bold text-[#982132]
+  }
+
+  h2 {
+    @apply text-xl font-bold
+  }
+
+}
