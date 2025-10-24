@@ -20,19 +20,17 @@ import AbbasPhoto from "../STUCO_members/Abbas_Picture.jpg";
 import Zarifa_Aliyeva_Photo from "../STUCO_members/Zarifa_Aliyeva_Picture.jpg";
 import Sharmin_Photo from "../STUCO_members/Sharmin_Picture.jpg";
 import Lina_Photo from "../STUCO_members/Lina_Picture.jpg";
-import VanessaChokarovaPhoto from "../STUCO_members/Vanessa_Picture.jpg"
-
+import VanessaChokarovaPhoto from "../STUCO_members/Vanessa_Picture.jpg";
+import OmarMustafayevPhoto from "../STUCO_members/Omar_Mustafayev_Picture.jpg";
+import OsmanSuleymanovPhoto from "../STUCO_members/Osman_Suleymanli_Picture.jpg";
 
 const headMembers = [
-  { name: "Novrasta Huseynova",
-    grade: "Teacher",
-    status: "Council Supervisor",
-    photo: AnonymousMember,},
-
   { name: "Nuray Huseynli",
     grade: "12th Grade",
     status: "President",
     photo: NurayHuseynliPhoto,},
+  
+
 
   { name: "Zarifa Aliyeva",
     grade: "10th Grade",
@@ -41,8 +39,14 @@ const headMembers = [
 
   { name: "Javad Orujov",
     grade: "10th Grade",
-    status: "Treasurer",
+    status: "Vice President",
     photo: JavadOrujovPhoto,},
+
+  { name: "Osman Suleymanov",
+    grade: "10th Grade",
+    status: "Treasurer",
+    photo: OsmanSuleymanovPhoto,
+  },
 ]
 
 const eventCoordinators = [
@@ -60,6 +64,12 @@ const eventCoordinators = [
     grade: "10th Grade",
     status: "Charity Event Coordinator",
     photo: TahirMammadovPhoto,},
+  
+  { name: "Omar Mustafayev",
+    grade: "10th Grade",
+    status: "General Coordinator",
+    photo: OmarMustafayevPhoto,
+  }
 ];
 
 const otherMembers = [
