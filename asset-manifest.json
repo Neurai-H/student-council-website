@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/student-council-website/static/css/main.67453183.css",
-    "main.js": "/student-council-website/static/js/main.c9cbc65e.js",
+    "main.css": "/student-council-website/static/css/main.029e24d0.css",
+    "main.js": "/student-council-website/static/js/main.ad4994bd.js",
     "static/media/SharkTankGame.png": "/student-council-website/static/media/SharkTankGame.2af7075ddf88ea42450b.png",
     "static/media/SponsorAPet.png": "/student-council-website/static/media/SponsorAPet.8ca8429122ba95b12d59.png",
     "static/media/OxbridgeFlagBearers.png": "/student-council-website/static/media/OxbridgeFlagBearers.a07a96105983bba3a61b.png",
@@ -19,6 +19,7 @@
     "static/media/HalloweenPartySTUCO.jpeg": "/student-council-website/static/media/HalloweenPartySTUCO.7e89400fde16458465e8.jpeg",
     "static/media/AydanGaragurbanliSTUCOpicture.JPG": "/student-council-website/static/media/AydanGaragurbanliSTUCOpicture.aa62c4e26424c170c5a5.JPG",
     "static/media/MiniOlympicsEvent.png": "/student-council-website/static/media/MiniOlympicsEvent.c2fb28db5dd0f56aab20.png",
+    "static/media/beauty_of_science_poster.png": "/student-council-website/static/media/beauty_of_science_poster.541d9d028e400e39da62.png",
     "static/media/IcebreakerGameDay.png": "/student-council-website/static/media/IcebreakerGameDay.62f451ac1f586e09e1f1.png",
     "static/media/MovieNightSTUCO2024.jpeg": "/student-council-website/static/media/MovieNightSTUCO2024.50488bb970279ffbcd1e.jpeg",
     "static/media/kitty.png": "/student-council-website/static/media/kitty.d532e4a45681603ba803.png",
@@ -29,11 +30,11 @@
     "static/media/Lina_Picture.jpg": "/student-council-website/static/media/Lina_Picture.2cbae48f062c895566e0.jpg",
     "static/media/Ayaz_Picture.jpg": "/student-council-website/static/media/Ayaz_Picture.4c33b3b6f796948693a5.jpg",
     "index.html": "/student-council-website/index.html",
-    "main.67453183.css.map": "/student-council-website/static/css/main.67453183.css.map",
-    "main.c9cbc65e.js.map": "/student-council-website/static/js/main.c9cbc65e.js.map"
+    "main.029e24d0.css.map": "/student-council-website/static/css/main.029e24d0.css.map",
+    "main.ad4994bd.js.map": "/student-council-website/static/js/main.ad4994bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.67453183.css",
-    "static/js/main.c9cbc65e.js"
+    "static/css/main.029e24d0.css",
+    "static/js/main.ad4994bd.js"
   ]
 }
