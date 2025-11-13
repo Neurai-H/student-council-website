@@ -23,6 +23,7 @@ import Lina_Photo from "../STUCO_members/Lina_Picture.jpg";
 import VanessaChokarovaPhoto from "../STUCO_members/Vanessa_Picture.jpg";
 import OmarMustafayevPhoto from "../STUCO_members/Omar_Mustafayev_Picture.jpg";
 import OsmanSuleymanovPhoto from "../STUCO_members/Osman_Suleymanli_Picture.jpg";
+import AylaPhoto from "../STUCO_members/Ayla_Picture.jpg";
 
 const headMembers = [
   { name: "Nuray Huseynli",
@@ -70,6 +71,7 @@ const eventCoordinators = [
     status: "General Coordinator",
     photo: OmarMustafayevPhoto,
   }
+
 ];
 
 const otherMembers = [
@@ -90,8 +92,13 @@ const otherMembers = [
 
   { name: "Sara Asadova",
     grade: "11th Grade",
-    status: "Head of Logistics",
+    status: "Logistics Council",
     photo: SaraAsadovaPhoto,},
+
+  { name: "Ayla",
+    grade: "10th Grade",
+    status: "Logistics Council",
+    photo: AylaPhoto,},
 
 ]
 
@@ -201,9 +208,7 @@ export default function Team() {
       </div>
 
       <div className="mt-16 w-full max-w-5xl">
-        <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
-          Responsibility List
-        </h1>
+        <h1 className="text-3xl font-bold mb-6 text-center text-gray-800"> Responsibility List </h1>
 
         <div className="overflow-x-auto">
           <table className="min-w-full rounded-lg overflow-hidden">

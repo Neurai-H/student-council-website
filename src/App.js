@@ -9,6 +9,9 @@ import Team from "./pages/Team";
 import Contact from "./pages/Contact";
 import Clubs from "./pages/Clubs";
 
+import BeautyOfScience from "./pages/BeautyOfScience";
+
+
 function App() {
   return (
     <Router>
@@ -21,6 +24,7 @@ function App() {
           <Route path="/team" element={<Team />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/clubs" element={<Clubs />} />
+          <Route path="/beauty_of_science" element={<BeautyOfScience />} />
         </Routes>
       </div>
     </Router>
